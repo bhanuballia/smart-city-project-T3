@@ -1,0 +1,30 @@
+[OPTIONS]
+Compiled file=index.chm
+Compatibility=1.1
+Full-text search=Yes
+Contents file=index.hhc
+Default Window=main
+Default topic=index.html
+Index file=index.hhk
+Language=0x409 English (United States)
+Title=SMART CITY MANAGMENT
+
+[WINDOWS]
+main="SMART CITY MANAGMENT","index.hhc","index.hhk","index.html","index.html",,,,,0x23520,,0x10387e,,,,,,,,0
+
+[FILES]
+dir_424b7c5d7598609ce158d03c55e9b17a.html
+doxygen_crawl.html
+graph_legend.html
+index.html
+md__c_1_2_users_2_user_2_desktop_2_s_m_a_r_t_01_c_i_t_y_01_p_r_o_j_e_c_t_01_07_u_p_l_o_a_d_01_o_f53c2853f7b8ff4d6715b4742ad3c145.html
+pages.html
+MASAI.png
+doxygen.svg
+graph_legend.png
+iitg logo.jpg
+doxygen.css
+dynsections.js
+jquery.js
+navtree.css
+tabs.css
